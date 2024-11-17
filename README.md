@@ -78,32 +78,6 @@ To set up and run the project locally, follow these steps:
    npm run dev
    ```
 
-
-## Screenshots
-1. E-Commerce HomePage
-  <img  src="public/assets/Screenshots/E-Commerce HomePage.jpg" alt="E-Commerce HomePage">
-2. Sign Up
-  <img  src="public/assets/Screenshots/Sign Up.jpg" alt="Sign Up">
-3. Log In
-  <img  src="public/assets/Screenshots/Log In.jpg" alt="Log In">
-4. Product Details page
-  <img  src="public/assets/Screenshots/Product Details page.jpg" alt="Product Details page">
-5. Wishlist
-  <img  src="public/assets/Screenshots/Wishlist.jpg" alt="Wishlist">
-6. About
-  <img  src="public/assets/Screenshots/About.jpg" alt="About">
-7. Cart
-  <img  src="public/assets/Screenshots/Cart.jpg" alt="Cart">
-8. CheckOut
-  <img  src="public/assets/Screenshots/CheckOut.jpg" alt="CheckOut">
-9. Contact
-  <img  src="public/assets/Screenshots/Contact.jpg" alt="Contact">
-10. Account
-  <img  src="public/assets/Screenshots/Account.jpg" alt="Account">
-
-
-
-
 ## Contact
 
 - [Author](https://github.com/Fahad-Hosen)
